@@ -1,9 +1,9 @@
 class Kinfer < Formula
   desc "Single-file local inference runtime for agent fleets"
   homepage "https://github.com/LocalKinAI/kinfer"
-  url "https://github.com/LocalKinAI/kinfer/releases/download/v0.3.0/kinfer-v0.3.0-darwin-arm64.tar.gz"
-  version "0.3.0"
-  sha256 "d5279f66a72cfcc746d8e1a3bb57c85f782425fa4c6e6cc362f27f7cb09e68d8"
+  url "https://github.com/LocalKinAI/kinfer/releases/download/v0.4.0/kinfer-v0.4.0-darwin-arm64.tar.gz"
+  version "0.4.0"
+  sha256 "1638997ce3892f7832db928ffc6b497f311fd8c2c7c2d0216411eddb51458af5"
   license "Apache-2.0"
 
   depends_on arch: :arm64
